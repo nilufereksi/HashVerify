@@ -150,7 +150,8 @@ Uygulama üç sekmeye ayrılmıştır:
 
 <!-- SCREENSHOT_DIFFERENT: GUI'de "DOGRULAMA BASARISIZ / DIFFERENT" çıktısının terminaldeki görüntüsü -->
 
-<img width="1147" height="121" alt="Ekran görüntüsü 2026-04-15 114920" src="https://github.com/user-attachments/assets/ad39d019-d102-47f6-9e9a-8402493d0094" />
+<img width="1147" height="121" alt="resim" src="https://github.com/user-attachments/assets/ee7cc4f2-b52b-460c-be30-9b0472da7861" />
+
 
 
 ---
