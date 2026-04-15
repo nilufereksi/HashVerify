@@ -149,7 +149,9 @@ Uygulama üç sekmeye ayrılmıştır:
 > Haber dosyasının içeriği değiştirildiğinde (tek bir karakter bile) hash blokları uyuşmaz ve sistem manipülasyonu tespit eder.
 
 <!-- SCREENSHOT_DIFFERENT: GUI'de "DOGRULAMA BASARISIZ / DIFFERENT" çıktısının terminaldeki görüntüsü -->
-<img width="840" height="89" alt="resim" src="https://github.com/user-attachments/assets/858d23ea-6bb1-4431-8d64-3f3181e3bae6" /> 
+
+<img width="1147" height="121" alt="Ekran görüntüsü 2026-04-15 114920" src="https://github.com/user-attachments/assets/ad39d019-d102-47f6-9e9a-8402493d0094" />
+
 
 ---
 
