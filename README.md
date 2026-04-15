@@ -36,6 +36,7 @@ sha256-antigravity/
 │   └── utils.py           # Genel yardımcılar
 ├── txt/
 │   ├── haber1.txt         # Örnek haber dosyası (orijinal)
+│   └── haber1.2.txt       # haber1.txt dosyasının aynısı (orijinal)
 │   └── haber2.txt         # Örnek haber dosyası (değiştirilmiş)
 ├── keys/                  # RSA anahtar dizini
 ├── requirements.txt
